@@ -1,0 +1,5 @@
+<?
+
+class AdminModel extends Model {
+
+}
